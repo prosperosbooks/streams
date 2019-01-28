@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "lul",
+      "id": 1
+    },
+    {
+      "title": "stream",
+      "description": "description",
+      "id": 2
+    },
+    {
+      "title": "my stream",
+      "description": "great stream",
+      "id": 3
+    },
+    {
+      "title": "asfea",
+      "description": "eafef",
+      "id": 4
+    },
+    {
+      "title": "asfea",
+      "description": "eafef",
+      "id": 5
+    },
+    {
+      "title": "new stream",
+      "description": "description of new stream",
+      "id": 6
+    },
+    {
+      "title": "new stream",
+      "description": "description of new stream",
+      "id": 7
+    }
+  ]
+}
