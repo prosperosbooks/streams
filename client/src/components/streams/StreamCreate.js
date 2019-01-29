@@ -27,7 +27,7 @@ export class StreamCreate extends Component {
 
   onSubmit = formValues => {
     this.props.createStream(formValues);
-  };
+   };
 
   render() {
     return (
